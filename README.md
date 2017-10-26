@@ -7,6 +7,7 @@ Using polymerfire
 First, make sure you have the [Polymer CLI](https://www.npmjs.com/package/polymer-cli) installed. Then run `polymer serve` to serve your application locally.
 
 ## Viewing Your Application
+Notice if it runs on 127.0.0.1 this should show error, then run localhost and you should get login redirect.
 
 ```
 $ polymer serve
