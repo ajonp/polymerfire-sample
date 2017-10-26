@@ -1,0 +1,28 @@
+[debug] [2017-10-26T06:54:51.139Z] ----------------------------------------------------------------------
+[debug] [2017-10-26T06:54:51.143Z] Command:       /usr/local/bin/node /usr/local/bin/firebase serve
+[debug] [2017-10-26T06:54:51.143Z] CLI Version:   3.13.1
+[debug] [2017-10-26T06:54:51.143Z] Platform:      darwin
+[debug] [2017-10-26T06:54:51.143Z] Node Version:  v6.11.4
+[debug] [2017-10-26T06:54:51.144Z] Time:          Thu Oct 26 2017 02:54:51 GMT-0400 (EDT)
+[debug] [2017-10-26T06:54:51.144Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2017-10-26T06:54:51.156Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2017-10-26T06:54:51.156Z] > authorizing via signed-in user
+[debug] [2017-10-26T06:54:51.158Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/ajonp-polymerfire  
+ Thu Oct 26 2017 02:54:51 GMT-0400 (EDT)
+[debug] [2017-10-26T06:54:51.513Z] <<< HTTP RESPONSE 200
+[debug] [2017-10-26T06:54:51.514Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/ajonp-polymerfire/tokens  
+ Thu Oct 26 2017 02:54:51 GMT-0400 (EDT)
+[debug] [2017-10-26T06:54:51.842Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Serving from '/Users/gap4/Documents/WEB/polymer/ajonp-polymerfire'...
+[info] 
+[debug] [2017-10-26T06:54:51.846Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/ajonp-polymerfire  
+ Thu Oct 26 2017 02:54:51 GMT-0400 (EDT)
+[debug] [2017-10-26T06:54:52.082Z] <<< HTTP RESPONSE 200
+[debug] [2017-10-26T06:54:52.083Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/388083239820/clients/_:getWebAppConfig  
+ Thu Oct 26 2017 02:54:52 GMT-0400 (EDT)
+[debug] [2017-10-26T06:54:52.557Z] <<< HTTP RESPONSE 200
+[info] i  hosting: Serving hosting files from: build/es6-unbundled/
+[info] ✔  hosting: Local server: http://localhost:5000
+
