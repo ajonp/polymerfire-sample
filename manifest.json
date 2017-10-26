@@ -1,0 +1,7 @@
+{
+  "name": "ajonp-polymerfire",
+  "short_name": "ajonp-polymerfire",
+  "description": "Using polymerfire",
+  "start_url": "/",
+  "display": "standalone"
+}
